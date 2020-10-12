@@ -13,6 +13,8 @@
   margin: 5px;
   background-image: url(https://img2.meteo.it/bin/90.$plit/C_109_meteoCitta_4_upiFoto.jpg);
   background-size: cover;
+  border-style: inset;
+  border: 1px solid gray;
 }
 
 .secondo{
@@ -21,6 +23,8 @@
   margin: 5px;
   background-image: url(http://www.poli-listaperta.it/wp-content/uploads/2019/09/Panorama-di-Napoli-Gettyimages.jpg);
   background-size: cover;
+  border-style: inset;
+  border: 1px solid gray;
 }
 
 .terzo{
@@ -29,6 +33,8 @@
   margin: 5px;
   background-image: url(http://www.youparti.com/nightlife_2016/nightlife/wp-content/uploads/2018/10/Milano.jpg);
   background-size: cover;
+  border-style: inset;
+  border: 1px solid gray;
 }
 /* NOTE: fine style blocchi città */
 

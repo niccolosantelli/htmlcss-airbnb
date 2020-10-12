@@ -6,6 +6,7 @@
   margin-left: -100px;
 }
 
+/* NOTE: inizio style blocchi città */
 .primo{
   height: 200px;
   width: 300px;
@@ -21,6 +22,7 @@
   background-image: url(http://www.poli-listaperta.it/wp-content/uploads/2019/09/Panorama-di-Napoli-Gettyimages.jpg);
   background-size: cover;
 }
+
 .terzo{
   height: 200px;
   width: 300px;
@@ -28,8 +30,9 @@
   background-image: url(http://www.youparti.com/nightlife_2016/nightlife/wp-content/uploads/2018/10/Milano.jpg);
   background-size: cover;
 }
+/* NOTE: fine style blocchi città */
 
-
+/* NOTE: effetto oscuramento foto */
 .layover{
   background: rgba(0,0,0,0.5);
   height: 200px;
@@ -37,6 +40,8 @@
   position: relative;
 }
 
+
+/* NOTE: style testo centrale foto  */
 .title{
   text-align: center;
   color: white;

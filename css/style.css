@@ -1,0 +1,47 @@
+.container{
+  position: absolute;
+  top: 15%;
+  left: 45%;
+  margin-top: -100px;
+  margin-left: -100px;
+}
+
+.primo{
+  height: 200px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(https://img2.meteo.it/bin/90.$plit/C_109_meteoCitta_4_upiFoto.jpg);
+  background-size: cover;
+}
+
+.secondo{
+  height: 200px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(http://www.poli-listaperta.it/wp-content/uploads/2019/09/Panorama-di-Napoli-Gettyimages.jpg);
+  background-size: cover;
+}
+.terzo{
+  height: 200px;
+  width: 300px;
+  margin: 5px;
+  background-image: url(http://www.youparti.com/nightlife_2016/nightlife/wp-content/uploads/2018/10/Milano.jpg);
+  background-size: cover;
+}
+
+
+.layover{
+  background: rgba(0,0,0,0.5);
+  height: 200px;
+  width: 300px;
+  position: relative;
+}
+
+.title{
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
